@@ -1,3 +1,6 @@
+| This is a fork of the original library by AFathi/ARVideoKit: I'll be working on trying to extend this library further to support a UIView for recording.
+
+
 > ARVideoKit Swift 5.0 coming soon in a new branch. Will add the link here once the swift 5.0 branch is ready.
 
 > Use [master](https://github.com/AFathi/ARVideoKit/tree/master) branch for projects written in Swift 4.0
